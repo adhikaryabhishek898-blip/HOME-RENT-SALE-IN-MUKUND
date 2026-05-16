@@ -1,0 +1,8 @@
+{
+  "name": "Home Rent & Sale in Mukundapur",
+  "description": "Premium real estate agency in Mukundapur, Kolkata specializing in property rentals and sales with professional guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
